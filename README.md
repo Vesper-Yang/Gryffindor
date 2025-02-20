@@ -25,3 +25,9 @@ Hi there. 👋
 |-------------|---------------|-------| 
 | Database     | [PostgreSQL](https://www.postgresql.org/)   | <img height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png">    | 
 | ORM         | [Prisma](https://www.prisma.io/)       | <img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWgE3cwDe-9BO0lkV4aGSHPARe_-wDrni3_sGG7-95l4jUsI2jwjRobOqrngy2cW6drUo&usqp=CAU">    |
+
+### Code
+
+| Category    | Technology    | Icons | 
+|-------------|---------------|-------| 
+| Code Formatter | [Prettier](https://prettier.io/)   | <img height="40" src="https://www.prettier.cn/icon.png">    | 
